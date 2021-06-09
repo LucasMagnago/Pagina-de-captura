@@ -21,7 +21,7 @@ h1{
 }
 section{
     padding:20px;
-    background-image:url('../assets/people.jpg');
+    background-image:url('./assets/people.jpg');
     background-size: cover;
     overflow:hidden;
 }
