@@ -48,6 +48,10 @@ input[type="submit"]{
     background-color:#48C5CE;
     font-weight: bold;
 }
+input[type="submit"]:hover{
+    background-color:white;
+    color: #48C5CE
+}
 select{
     appearance: none;
     -moz-appearance: none;
